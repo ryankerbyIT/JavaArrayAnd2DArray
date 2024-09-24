@@ -137,7 +137,7 @@ The program simulates a Lo Shu Magic Square, a 3x3 grid where the sum of each ro
 ## How to Run the Programs
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/ArrayAnd2DArrayChallenges.git
+   git clone https://github.com/ryankerbyIT/ArrayAnd2DArrayChallenges.git
 
 
 ### Instructions:
